@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The weakness of George Keith's reasons for renouncing Quakerism and entering into communion with the Church of England &amp;c. manifested and replied to by John Feild [sic]</title>
+            <author>Field, John, 1652-1723.</author>
+         </titleStmt>
+         <extent>Approx. 79KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A41280</idno><idno type="EEBO-CITATION">11209662</idno>
+  <idno type="VID">46806</idno>
+  <idno type="EEBO-PROQUEST">2240876951</idno>
+  
+            <idno type="STC">Wing F868</idno>
+            <idno type="STC">ESTC R29830</idno>
+            <idno type="OCLC">11209662</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A41280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46806)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1441:69)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The weakness of George Keith's reasons for renouncing Quakerism and entering into communion with the Church of England &amp;c. manifested and replied to by John Feild [sic]</title>
+                  <author>Field, John, 1652-1723.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Keith, George, 1639?-1716.</term>
+               <term type="topical_term">Society of Friends --  Controversial literature.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46806:1"/>
+            <pb facs="tcp:46806:1"/>
+            <p>THE WEAKNESS OF George Keith's REASONS FOR Renouncing <hi>Quakerism,</hi> AND Entering into Communion WITH THE Church of <hi>England,</hi> &amp;c. Manifested, and Replied to.</p>
+            <p>By <hi>JOHN FEILD.</hi>
+            </p>
+            <q>
+               <bibl>2 Tim 3. 13.</bibl>
+               <p>
+                  <hi>Evil Men and Seducers wax worse and worse, deceiving and being deceived.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>Psalm 7. 9.</bibl>
+               <p>
+                  <hi>Oh let the Wickedness of the Wicked come to an end.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-street,</hi> 1700.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:46806:2"/>
+            <pb n="3" facs="tcp:46806:2"/>
+            <head>The Weakness of <hi>George Keith</hi>'s Reasons, for Renouncing <hi>Quakerism,</hi> &amp;c. Replied to.</head>
+            <p>BY Vertue of a Gospel-Precept, we are injoyned to contend earnestly for the Faith which was once delivered unto the Saints: And we have cause to Believe, and be Comforted, in the Experience of what our Lord Jesus Christ hath said, <hi>Blessed are ye, when Men shall Revile you, and perse<g ref="char:EOLhyphen"/>cute</hi>
+               <note place="margin">Matt. 5. 11.</note>
+               <hi>you; and shall say all manner of Evil against you falsly for my sake.</hi> And surely I may conclude, there never was a People, in any Age, since the Apostles days, that have been more Reviled, than the Despised People called <hi>Quakers;</hi> nor Persecuted by Tongue and Pen, more than they: What manner of Evil can be named, which some Priests and Enemies to the Truth, and Envious Apostates, have not said, Reviled and Persecuted them with, rendering them sometimes <hi>Crafty Knaves</hi> and <hi>Jesuits;</hi> other times <hi>Silly Ignorant</hi> and <hi>Illi<g ref="char:EOLhyphen"/>terate Persons:</hi> Another time they are <hi>Upright</hi> enough in their <hi>Intentions,</hi> and yet they are termed <hi>Cheats</hi> and <hi>Impostors.</hi> Again, saith one, Who but the <hi>Quakers,</hi> amongst their Neighbours, for <hi>Godly Men,</hi> and <hi>Upright Dealers?</hi> And what confirms it, is, a <hi>Constant Care</hi> to abstain from <hi>Vain Oaths,</hi> and <hi>Idle Ex<g ref="char:EOLhyphen"/>pressions.</hi> Another cries out, They are a <hi>Vile Abominable Cursed Blasphemous Sect:</hi> And yet comes another, and saith, The <hi>Quakers</hi> of this <hi>Generation</hi> are <hi>Orthodox:</hi> And another cries out, they are guilty of <hi>Vile</hi> and <hi>Gross Errors</hi> and <hi>Heresies.</hi> Again one saith, They are far from the <hi>Pride</hi> and <hi>Flattery</hi> of the <hi>World;</hi> and their <hi>Dress is Mean and Humble, such as become the Pure in Heart.</hi> And yet says another, <hi>They are Proud, Haughty and High-minded, and fitted for Monkery, with all the tendency of Habit, Behaviour, Sullenness and Ignorance; Re<g ref="char:EOLhyphen"/>gardable for their Politicks, Crafty in their Council, yet foolish and poor ignorant Souls.</hi>
+            </p>
+            <p>Surely, if those People were blessed, as <hi>Christ</hi> our Lord said, that <hi>Men said all manner of Evil against them falsly for his sake;</hi> the <hi>Quakers</hi> have right to be Partakers of that Blessing, and cause to <hi>Rejoyce,</hi> and be <hi>exceeding Glad,</hi> and to hope their Reward in Heaven will be great; for so Persecuted they the <hi>Pro<g ref="char:EOLhyphen"/>phets</hi> which were before them. But he that knew all things, and what was done to the <hi>Green Tree,</hi> said to the <hi>Branches,</hi> and those that were his <hi>little Flock, Fear not, for it is your Father's good Pleasure to give you a Kingdom:</hi> Altho' they that were the <hi>Sheep of his Pasture,</hi> and <hi>Flock of his Inheritance,</hi> were accounted <note place="margin">Luke 12. 32.</note>
+               <hi>Illiterate,</hi> called <hi>Accursed, and knew not the Law; a Sect almost every where spoken against;</hi> their way counted <hi>Heresie;</hi> and altho' they held the <hi>Truth,</hi> (as it is in <hi>Jesus)</hi> were accounted <hi>Deceivers,</hi> yet <hi>True; Turners of the World up-side down;</hi> and said to be <hi>Movers of Sedition,</hi> yet <hi>Peaceable:</hi> And such that <hi>sought the good of all;</hi> and would that <hi>Prayers and Supplications should be put up for all Men, for Kings, and those that are in Authority, that they might live a Peaceable and a godly Life, in all Honesty;</hi> which is the <hi>Prayers</hi> and <hi>Practice</hi> of that <hi>Despised, Reviled, Belyed,</hi> and <hi>Falsly Accused People,</hi> called <hi>Quakers;</hi> notwithstanding the <hi>Rage</hi> of
+<pb n="4" facs="tcp:46806:3"/> their <hi>Adversaries,</hi> and <hi>Enmity</hi> of <hi>Judas</hi>'s, that have <hi>betrayed</hi> their <hi>Lord,</hi> and would have <hi>Coertion</hi> Exercised against them that continue to be his <hi>Followers:</hi> And those that are like <hi>Balaam,</hi> that loved the <hi>Wages of Unrighteousness;</hi> or <hi>Demas,</hi> that <hi>forsook the Faith,</hi> and <hi>embraced this present World;</hi> or <hi>Alexander</hi> the <hi>Copper-smith,</hi> that did the <hi>Apostles</hi> much harm; or <hi>Demetrius,</hi> that would stir up those of his Craft, crying out, <hi>It is in Danger.</hi> But I am not willing longer to detain thee, I shall proceed to what that <hi>Unreasonable Man</hi> G. K. calls <hi>Rea<g ref="char:EOLhyphen"/>sons for leaving Quakerism,</hi> as he terms our <hi>Holy and Christian Profession.</hi>
+            </p>
+            <p>He saith, <q>He hath <hi>Inoffensively</hi> associated with the <hi>Quakers</hi> (above Thirty <note place="margin">Page 4.</note> Years)—in <hi>Seducing</hi> so many Well-meaning Souls into Principles and Pra<g ref="char:EOLhyphen"/>ctices, that border upon Death and Destruction—Again, I having totally Renounced all their Errors, Deserted their Meetings, and by Imposition of Holy Hands, entered upon the Ministry in the Church of <hi>England,</hi> answer some Objections and Calumnies that the <hi>Quakers</hi> have made upon my Change; and shew my Reasons for which I left them,—to oppose the spreading Gan<g ref="char:EOLhyphen"/>grene <note place="margin">Page 5.</note> of their Vile Errors.</q>
+            </p>
+            <p>
+               <q>But the great Argument that they make of my Insincerity, is, my having <note place="margin">Page 6.</note> been formerly so long among them, and yet never, till of late, pretended to know that they held such gross Errors, that I now accuse them of.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Let me now enquire how these things can be true, that the <hi>Quakers</hi> Seduced many Well-meaning People into Principles and Practices that Border upon Death and Destruction; and what they were, and what Principles or Errors he hath Renounced, and the spreading Gangrene of them, seeing he saith, <q>As Idle, Impertinent and Vain, is their Arguing, that 'twas very unlikely, <note place="margin">Page 9.</note> that living Thirty Years among them, I could be ignorant of their Principles,—when it is well known to all the World they have none. <note place="margin">Page 10.</note>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Did the <hi>Quakers,</hi> that have no Principles, Seduce Well-meaning Peo<g ref="char:EOLhyphen"/>ple into Principles and Practices that Border upon Death and Destruction? And could they be Erroneous in their Principles, and he Renounce them, when they have none? Was there any Danger of the <hi>Spreading Gangrene</hi> of their Prin<g ref="char:EOLhyphen"/>ciples, that have none to spread? And did he live among a People Thirty Years, and defend their Principles, that had no Principles?</p>
+            <p>Again he saith, <q>Without a Miracle, 'tis impossible to know what their <note place="margin">Ibid.</note> Principles are.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> What then, have they Principles, of whom he saith, <hi>It's well known to all the World they have none?</hi> Then let him tell, by what Miracle, and by whom wrought, was that by which <hi>G. K.</hi> came to know the <hi>Quakers Prin<g ref="char:EOLhyphen"/>ciples,</hi> that have none.</p>
+            <p>But he saith, <q>A Weather-cock is not more variable in its Motion, than the <note place="margin">Ibid.</note>
+                  <hi>Quakers</hi> are Dexterous in Shifting their Opinions through all the Parts of the Compass.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Now whether the <hi>Quakers</hi> are more Dexterous in Shifting their <hi>Opinions</hi> or <hi>Principles</hi> (that have no <hi>Principles,</hi> as <hi>G. K.</hi> saith) or he, let the Sober and Wise, Judge; and who are most like the Weather-cock.</p>
+            <pb n="5" facs="tcp:46806:3"/>
+            <p> But there is one thing that <hi>G. K.</hi> would fain know, and therefore I think to proceed to that: He saith, <q>The <hi>Quakers</hi> object, That I have formerly Defended the <hi>Quakers Principles;</hi> I would fain know what <hi>Principles</hi> they mean.</q> (Very <note place="margin">P. 7.</note> proper and necessary indeed to know, seeing he hath affirmed) <q>It's well known to all the World they have none. (But he proceeds, and asks) Whe<g ref="char:EOLhyphen"/>ther they relate to the <hi>Fundamentals of Religion</hi> (another necessary Question;) and if so, let them name them, that I may give the World satisfaction, by confessing my Fault; or justifie my self, where I am falsly accused.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> To answer <hi>G. K</hi>'s longing Desire, what <hi>Principles</hi> we mean; I Answer, the <hi>Principles</hi> following, held and professed by the People called <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> which now he saith, in his <hi>Reasons for Leaving the Quakers,</hi>
+               <q>Is well known to all the World, have <hi>None.</hi>
+               </q>
+            </p>
+            <p>But see the 12th Section of his Book, Intituled, <hi>Quakerism no Popery;</hi> where, <q>
+                  <hi>The Doctrine</hi> (as held by the <hi>Quakers) of the Three that bear Record in Heaven, Father, Son</hi> and <hi>Spirit,</hi> are Defended: And that these <hi>Three</hi> are <hi>One,</hi> (according to the <hi>Scriptures;)</hi> and the <hi>Papists,</hi> and his <hi>now Brethren,</hi> are com<g ref="char:EOLhyphen"/>pared together: And it's said, they agree as to their <hi>Notions</hi> and <hi>Distinctions</hi> of <hi>Trinity</hi> and <hi>Persons;</hi> which, it's truly said, the <hi>Quakers</hi> deny the <hi>School-Mens Uncertain Notions, and Unscriptural Terms of Trinity and Persons.</hi>
+               </q>
+            </p>
+            <p>And if now a Confession by the <hi>Quakers,</hi> to this <hi>Truth,</hi> in Express Scripture Terms, will not serve, let him advance what Reasons he can, to Refute what he said on this Article, in his <hi>Serious Appeal,</hi> p. 2, 3. and the Book afore-quoted.</p>
+            <p>
+               <hi>2dly.</hi> And also therein is defended this, <q>That there is a <hi>Saving, Evangelical, Supernatural Light</hi> in <hi>all</hi> Men, by which they may be Saved, without the use of other Means, if God necessarily Abstract them from them: Denying that such as have not the Scriptures, or some to Preach to them, or Baptize them, <hi>&amp;c.</hi> must of necessity Perish, unless the Lord make use of some Ex<g ref="char:EOLhyphen"/>traordinary Means: And therein his present Brethren are compared to the Papists, for affirming the contrary.</q> And <hi>G. K.</hi> hath now joyned with them that say, <hi>The Light within is a meer Cheat, and grand Imposture, but a Spark from the Devil's Forge, and a Whimsical Witness fetch'd from</hi> Terra Incognita. See the three <hi>Norfolk</hi> Rectors Book, Intituled, <hi>The Principles,</hi> &amp;c. p. 6 and 57. And a Book written by a Priest, called <hi>Remarks,</hi> p. 19, 23.</p>
+            <p>
+               <hi>3dly.</hi> And in the said Book, <hi>Quakerism no Popery,</hi> is this defended, <hi>viz.</hi>
+               <q>That <hi>Humane Learning,</hi> and <hi>Natural Parts,</hi> are not more <hi>Essential Qualifications</hi> to <hi>Ministers</hi> and <hi>Preachers,</hi> than the <hi>Grace of God:</hi> And that Men may not be <hi>True Ministers</hi> without the <hi>Grace of God,</hi> but without the other.</q>
+            </p>
+            <p>
+               <hi>G. K.</hi> hath now joyned with those that say, <hi>They may be True Shepherds in relation to their Flocks; tho' in relation to God they may be Wolves.</hi> See p. 17. of the foresaid Rectors Book.</p>
+            <p>
+               <hi>4thly.</hi> And in the said Book of <hi>G. K</hi>'s, the <hi>Quakers</hi> are defended against those that affirm, <q>The Power of their Ministry by an Outward Succession; together with the use of Outward Ordination: And their Judging that sufficient to Constitute a Minister, tho' he want an Inward Call from <hi>God's Spirit;</hi> and
+<pb n="6" facs="tcp:46806:4"/> your reckoning People are obliged to hear them, and look upon them as Ministers, because of their Outward Formality of Ordination, without questioning their Inward Call is denied.</q>
+            </p>
+            <p>But now as <hi>G. K.</hi> saith, <q>By the Imposition of Holy Hands, he is entered upon the Ministry in the Church of <hi>England; whom he hath termed</hi> to be such Men, that are generally void of all Sense and Feeling of God; that have, in the Blindness of their Minds, and in the Wisdom from be<g ref="char:EOLhyphen"/>low, that is <hi>Carnal, Earthly</hi> and <hi>Devilish,</hi> Formed and Invented Perverse <hi>Doctrine,</hi> for their own <hi>Gains</hi> and <hi>Ends;</hi> and renders the <hi>Members</hi> of the National Churches, a Mixed Confused Rabble of Godless <hi>Atheists;</hi> and cryed against their <hi>Philosophy,</hi> and their <hi>Universities,</hi> calling them the <hi>Stews of Antichrist,</hi> out of which comes their Profane Scandalous <hi>Ministry</hi> (of which he is now one) and that they will consist of Ungodly Men; the <hi>Wicked</hi> being preferred by the <hi>Wicked;</hi> and so he is preferred among the rest.</q>
+            </p>
+            <p>He saith, <q>Are not these called <hi>Teachers</hi> of the <hi>Man-made Ministry</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ector. <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>r.</hi> p. 125</note>
+                  <hi>Ambitious?</hi> Have not some of the <hi>Clergy</hi> greater <hi>Titles</hi> now, than the <hi>Rabbies</hi> had of old? As <hi>Your Grace, Your Holiness, Most Reverend Father in God,</hi> &amp;c.</q> And <hi>G. K.</hi> saith, <q>The <hi>Teachers</hi> have been generally, and for the <hi>most</hi> part, Self-seeking, <note place="margin">
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>y Cast</hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> p. 40, <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>.</note> Worldly-minded and Covetous Men, who loved Pleasures and Riches, more than God. And this, saith he, the Magistrates did well know, and saw the best way to prevent them, was, to <hi>Bribe</hi> them with <hi>Augmentations</hi> and <hi>Benefices.</hi>
+               </q>
+            </p>
+            <p>
+               <q>I cannot, says he, in the least acknowledge—that ever any <hi>National</hi>
+                  <note place="margin">
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>bid. p. 36.</note>
+                  <hi>Church</hi> can be a <hi>True Church of Christ—</hi>is always a <hi>Persecuting Church</hi> (it is in her very Nature.) So it must always be exceeding <hi>Hypocritical,</hi> seeing it begetteth Thousands to be its Children and Members, by the <hi>meer</hi> Will and Power of Man, which only makes <hi>Hypocrites:</hi>
+               </q> Is not this the way that <hi>George Keith</hi> became one?</p>
+            <p>And if he should say he Retracts, let him also prove the contrary, by as strong <hi>Arguments,</hi> and in express Scripture-words, if he can; and not think it's enough for him only to say, <hi>I Retract,</hi> but disprove them in every part.</p>
+            <p>
+               <hi>Fifthly,</hi> And in the Book <hi>Quakerism no Popery,</hi> the <hi>Quakers</hi> are defended, in <note place="margin">
+                  <hi>
+                     <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ect.</hi> 12.</note>
+               <q>Denying that the Clergy ought to be a <hi>Distinct sort of Persons,</hi> distinguished from the rest of the People by their <hi>Black Coats;</hi> and are said to agree with the <hi>Papists</hi> in affirming the contrary.</q> And now is he not become such an one, and agrees with the <hi>Papists?</hi> Let him prove this, so directly opposed, by express and plain Scripture.</p>
+            <p>
+               <hi>Sixthly.</hi> And in the said Book, <hi>Quakerism no Popery,</hi> the <hi>Quakers</hi> are defended, in asserting, <q>That their <hi>Preachers ought to Wait, to Speak,</hi> as the <hi>Spirit gave them Utterance:</hi> But now, when the <hi>Bell</hi> Ringeth, he can go and <hi>Repeat</hi> over be<g ref="char:EOLhyphen"/>fore the People, as the <hi>School-boys</hi> do their <hi>Lessons.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Seventhly.</hi> And in the aforesaid Book, the <hi>Quakers</hi> are defended, in denying <q>that Preachers ought to have a <hi>set Limited Hire;</hi> and are Justified in their
+<pb n="7" facs="tcp:46806:4"/> saying, they ought or might supply their Wants with their Hands, as did the honest Apostle <hi>Paul;</hi> and not sit at Ease, and feed of the Fat.</q>
+            </p>
+            <p>But now he may be willing to have such a Hire, and to feed of the Fat, if he could get it.</p>
+            <p>
+               <hi>Eighthly.</hi> Also in the said Book, the <hi>Quakers</hi> are defended, in affirming, <q>That all Ministers are alike; and that there ought not to be <hi>Diocesan Bishops</hi> over the rest, whom Men must call <hi>My Lord:</hi> And it's said, They agreed with the <hi>Papists;</hi> and doth not he so now?</q>
+            </p>
+            <p>
+               <hi>Ninthly.</hi> And the <hi>Quakers</hi> are defended, in denying, <q>That <hi>Water-Baptism</hi> is the <hi>Baptism of Christ,</hi> and a <hi>Standing Ordinance</hi> in the <hi>Church of Christ;</hi> and in denying <hi>Infant-Sprinkling</hi> is an <hi>Ordinance</hi> of the <hi>Gospel.</hi>
+               </q>
+            </p>
+            <p>And he hath asserted, <q>That they that do it by a bare Imitation, or a meer pretended Call, it is great <hi>Presumption,</hi> yea, <hi>Superstition;</hi> and that they can<g ref="char:EOLhyphen"/>not <note place="margin">
+                     <hi>Ind. Vis.</hi> p. 182.</note> prove their Call thereto, to be either Mediate or Immediate: And to call that a Command of God, saith he, which he hath given <hi>no Command</hi> to Practice, is to set up the <hi>Precepts</hi> of Men, in the room of God's <hi>Command<g ref="char:EOLhyphen"/>ments,</hi> as the <hi>Pharisees</hi> did of old, and is <hi>taking his Name in vain,</hi> for which <hi>he will not hold them Guiltless.</hi>
+               </q>
+            </p>
+            <p>Very many Instances may be brought, of his vindicating the Doctrines they hold, not only in the Points above-mentioned, but concerning In<g ref="char:EOLhyphen"/>fallibility, <hi>Christ's</hi> coming to <hi>Judgment,</hi> the <hi>Holy Scripture</hi> being of <hi>Divine Authority; Christ</hi> and his <hi>Blood, Justification,</hi> the <hi>Rule of Faith,</hi> the <hi>Supper of the Lord,</hi> the <hi>Resurrection, Heaven, Hell,</hi> and doing Servile Works on the <hi>First-day;</hi> concerning the <hi>Sabbath,</hi> and the <hi>Preachers</hi> and <hi>Publishers</hi> of our <hi>Faith,</hi> &amp;c. And how he hath affirmed, upon his own knowledge, after long Experience, and Conversing with the most Eminent among us.</p>
+            <p>That it never hath been <hi>Proved,</hi> nor <hi>never</hi> Will, <q>That the <hi>Religion</hi> Pro<g ref="char:EOLhyphen"/>fessed by the <hi>Sincere</hi> and <hi>Faithful People</hi> called <hi>Quakers,</hi> is either <hi>Paganism,</hi> or <note place="margin">Preface of Serious Appeal.</note>
+                  <hi>any</hi> other thing than <hi>Real Christianity.</hi>
+               </q> Altho' he hath since had the Con<g ref="char:EOLhyphen"/>fidence, to affirm the <hi>Quakers Apostates</hi> and <hi>Heathens, Hereticks</hi> and <hi>Blasphemers:</hi> And since that, speaks so well for himself, as to say, that he <hi>was a Christian whilst a Quaker, Orthodox and Sound in the Fundamentals of Christianity; and now thinks himself a Weak Christian.</hi> But indeed his <hi>Uncharitableness</hi> bespeaks so little of <hi>Christianity,</hi> that it may be questioned by the Truly Sober, Wise and Considerate, whether he is guided by a <hi>Christian Spirit:</hi> And if any <hi>Judge</hi> him so to be, his <hi>Envy, Passion, Pride</hi> and <hi>Conceitedness,</hi> will, I think, evidently demonstrate the <hi>Contrary.</hi>
+            </p>
+            <p>Howbeit, Let all remember this also, that in the 12th Section of <hi>Quakerism no Popery,</hi> by <hi>G. K.</hi> the <hi>Quakers</hi> are defended, <q>in denying the <hi>Bloody Anti<g ref="char:EOLhyphen"/>christian Tenet</hi> of <hi>Persecution;</hi> and that the <hi>Civil Magistrate</hi> may lawfully <hi>Kill, Banish, Imprison</hi> and <hi>Poin'd</hi> Men, for their <hi>Opinions</hi> in Matters of <hi>Wor<g ref="char:EOLhyphen"/>ship</hi> and <hi>Doctrine;</hi> and that it is not lawful for <hi>Christians</hi> to <hi>Fight,</hi> and <hi>Kill</hi> one another in <hi>Fighting;</hi> nor to <hi>Swear:</hi> And that it is not lawful for Men to <hi>Kneel, Bow,</hi> and take off their Hats one to another; and using <hi>Vain Titles, Complements</hi> and <hi>Cringings,</hi> &amp;c.</q>
+            </p>
+            <pb n="8" facs="tcp:46806:5"/>
+            <p> But now doth he not use his Endeavours to Incense, or stir up, the <hi>Civil Magistrates</hi> to <hi>Persecution,</hi> by rendering the <hi>Quakers Hereticks, Blasphemers, Heathens, Deists,</hi> &amp;c. And cannot he now <hi>Swear, Kneel, Bow, Take off his Hat,</hi> use <hi>Vain Complements</hi> and <hi>Cringings,</hi> &amp;c. And he may now plead, if he please, for what he once also denied, <hi>Gaming, Sporting, Playing, Dancings, Singings, Actings of Comedies, using Lace, Ribbands, Plaiting the Hair, and such other Superfluities.</hi>
+            </p>
+            <p>And thus I have given him some Return to what he would fain know, and he may, if he please, give the World Satisfaction, by Confessing and for<g ref="char:EOLhyphen"/>saking his Fault; and a through Confutation of all his Arguments; and not only say he Retracts.</p>
+            <p>And as to what he speaks slightingly of <hi>G. Fox,</hi> I refer the Reader to the <note place="margin">
+                  <hi>Reasons,</hi> p. 9.</note>
+               <hi>Broad Sheet,</hi> Intituled, <hi>The Christianity of the People, called</hi> Quakers, <hi>Asserted,</hi> &amp;c. in answer to his Pretended <hi>Serious Call;</hi> and then People may see, how <hi>little Weight,</hi> and <hi>great Envy,</hi> appears in <hi>G. K.</hi> since he turned from that he once Professed, Suffer'd, Writ and Contended for; and then People may consider, whether <hi>G. K.</hi> doth, what he now doth, for good Conscience: And whether he be led by the <hi>Spirit of Christ,</hi> to Contradict the <hi>Truths</hi> he once Defended, and himself.</p>
+            <p>And now is he grown to that Degree of Hardness and Confidence, as most Falsly and Wickedly to Assert, <q>The <hi>Quakers</hi> Lye for Conscience-sake; and <note place="margin">P. 11.</note> Intitle their <hi>Errors</hi> and <hi>Blasphemies</hi> to the <hi>Holy Spirit of God.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> And yet in the Preface to his <hi>Exact Narrative,</hi> he saith, <q>I charge them <hi>(i. e.</hi> the <hi>Quakers)</hi> not either upon the Generality, far less the Univer<g ref="char:EOLhyphen"/>sality, of them called <hi>Quakers.</hi>
+               </q>
+            </p>
+            <p>And also he saith, <q>Being now by Imposition of Holy Hands, ordained a Minister of the Church of <hi>England,</hi> that I may not be thought to Desert the <note place="margin">P. 14.</note>
+                  <hi>Quakers</hi> out of any Personal Disgust, or for Worldly Interest, but purely out of Dissatisfaction of my Conscience, because they had forsaken God, and Renounced the Principles of the Christian Religion: And that I durst not, on the Peril of my Eternal Salvation, associate longer with them, lest, being tainted with their Errors, I should be Obnoxious to their Punishment. I shall, in the next place, give you some of my Reasons, that engaged me to Abandon <hi>Quakerism,</hi> and to Imbrace <hi>Christianity.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> He hath said, he was a <hi>Christian</hi> before, and now a <hi>Weak one,</hi> as he confesseth; and yet pretends now to imbrace <hi>Christianity:</hi> As if before he was not a <hi>Christian,</hi> because he now <hi>Pretends to Imbrace Christianity:</hi> What was he then, a <hi>Heathen?</hi> (as he calls the <hi>Quakers.)</hi> Surely he would not be so esteemed; because he saith, he <hi>was a Christian,</hi> before he left that he now calls <hi>Quakerism:</hi> He held the <hi>Fundamentals</hi> of <hi>Christianity,</hi> and the <hi>True Faith;</hi> and declared in Print, saying, <q>What Faith then have they, who say, <hi>Inward and Immediate Revelation</hi> is not the Common Priviledge of Men; nay, not of the <note place="margin">
+                     <hi>The Funda<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>entals of Christiani<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>,</hi> p. 14. 15</note>
+                  <hi>Saints</hi> in these days: <hi>Answer,</hi> They have not the <hi>True Faith,</hi> which is the <hi>Faith</hi> of <hi>God's Elect,</hi> that walk by Love, and Purifieth the Heart, and is Fruitful of
+<pb facs="tcp:46806:5"/> Good Works: But their Faith is but a Dream, and Imagination; which as it findeth them in their Sins, so it leaveth them to Live and Dye in them.</q>
+            </p>
+            <p>And let the <hi>Truly Wise, Considerate</hi> and <hi>Christian Reader,</hi> well observe this, and also how he values himself now, for being Ordained a <hi>Minister of the Church of</hi> England, <hi>by Imposition of Holy Hands:</hi> Yet this is the Man, this is the Man, that saith, <q>Indeed I am ashamed, that he <hi>(i. e. I. M.</hi> one of the Church of <hi>England)</hi> should derive either his own, or that any other of the <hi>Protestants</hi> should derive their <hi>Call</hi> or <hi>Ordination</hi> through so <hi>Unclean a Conduit,</hi> as the great <hi>Antichrist;</hi> and through <hi>Confessed Symoniacks, Magicians</hi> and <hi>Necromancers;</hi> yea, through <hi>Papess Joan,</hi> a <hi>Vile Harlot;</hi> sure I am, the most Famous of the <hi>Primitive Protestants</hi> abhorred such a thing; and if at any time any of them alledged that <hi>Outward Ordination,</hi> it was but an Argument <hi>ad hominem,</hi> as we use to say, by way of <hi>Retortion,</hi> to stop the <hi>Papists</hi> Mouths; otherwise acknowledge their <hi>Call</hi> to be <hi>Extraordinary</hi> and <hi>Immediate.</hi>
+               </q>
+            </p>
+            <p>May it not be concluded, he is grown <hi>Shameless,</hi> if he doth now now derive his <hi>Ordination</hi> through so <hi>Unclean</hi> a <hi>Conduit,</hi> as the great <hi>Antichrist,</hi> confessed <hi>Symoniacks, Magicians</hi> and <hi>Necromancers;</hi> yea, and through <hi>Papess Joan,</hi> a <hi>Vile Harlot?</hi> If he doth, what can he be other than the Son of such, by his own Account, and very unlike the <hi>Primitive Christians</hi> and <hi>Protestants,</hi> and will have little cause, so often to boast of the <hi>Imposition</hi> of <hi>Holy Hands?</hi> And on whatever Account the <hi>Quakers</hi> denied him, who he saith he left, whether it was, because they would not let him have the <hi>Preheminence,</hi> or because of his <hi>Passion</hi> and <hi>High Conceit</hi> of himself, <hi>Pride</hi> and <hi>Contention,</hi> he sug<g ref="char:EOLhyphen"/>gests now he left the <hi>Quakers,</hi> when it was the <hi>Quakers</hi> denied him, notwith<g ref="char:EOLhyphen"/>standing his <hi>Pretence</hi> of leaving them: But let his <hi>Pretences</hi> be what they will, or let it be for what <hi>Worldly Interest</hi> soever, I think it will be hard to perswade those that know him, and have done for Thirty Years past and upwards, to believe that it was purely out of the <hi>Dissatisfaction of a good Conscience,</hi> that he pretends now to leave the <hi>Quakers,</hi> that long before Rejected or Denied him, and Testified against his <hi>Turbulent Spirit,</hi> and his <hi>Evil Works</hi> of <hi>Strife</hi> and <hi>Con<g ref="char:EOLhyphen"/>tention,</hi> which were far more Dangerous to bring him to the <hi>Peril</hi> of his <hi>Eter<g ref="char:EOLhyphen"/>nal Salvation,</hi> than if he had, in the <hi>Spirit</hi> of <hi>Love</hi> and <hi>Meekness,</hi> continued to Associate with the <hi>Quakers:</hi> And whatever <hi>Pretence</hi> he maketh, of being tainted with their <hi>Errors,</hi> he grants he was a <hi>Christian</hi> whilst among them, <hi>Orthodox</hi> or <hi>Sound</hi> in the <hi>Fundamentals</hi> of <hi>Christianity,</hi> and now a <hi>Weak one,</hi> notwithstanding the <hi>Imposition of Holy Hands,</hi> as he often speaks of. But now to what he calls his <hi>Reasons.</hi>
+            </p>
+            <p>
+               <q>And the first <hi>Reason</hi> I assign, says he, for leaving <hi>Quakerism,</hi> is, Because <note place="margin">Page 14.</note> they are at such <hi>great Uncertainties</hi> in what they Profess, that no Man can have any <hi>Assurance</hi> where to Bottom, or whether that which they own to day, will be allowed to be <hi>Truth</hi> to-morrow.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> This might be a good <hi>Reason,</hi> by his way of <hi>Reasoning,</hi> to prove, the <hi>Quakers</hi> had great <hi>Reason</hi> to Deny him, for his <hi>Uncertainties;</hi> for he hath changed so often, and been so full of his Cabalistical, and other <hi>Notions</hi> and
+<pb n="10" facs="tcp:46806:6"/>
+               <hi>Hypothesises,</hi> that no Man can have any Assurance where his Bottom is; altho' some may fear, and he may have cause to fear, if he lives in Prejudice against the <hi>Truth,</hi> and those that truly Love it, and live therein, it will be in the <hi>Bottomless Pit,</hi> with the <hi>Dragon,</hi> that <hi>Old Serpent,</hi> and <hi>Devil,</hi> and <hi>Satan,</hi> if he Repent not.</p>
+            <p>For what he hath owned one time, and affirmed confidently, and as in the Name of the Lord, he hath denied another; he hath asserted, <hi>Water</hi> was not meant in <hi>Matt.</hi> 28. 19. and again that it was meant.</p>
+            <p>Again, he hath affirmed, saying, <q>Your Supper is a meer Shadow, and <note place="margin">
+                     <hi>Presb.</hi> and <hi>Ind. Vis. Ch.</hi> p. 185.</note> none of <hi>Christ's Supper,</hi> nor of his <hi>Institution.</hi>
+               </q> And hath he not asserted, It was altogether a <hi>Spiritual</hi> and <hi>Invisible Thing</hi>
+               <note n="*" place="margin">See <hi>Truths De<g ref="char:EOLhyphen"/>fence,</hi> &amp;c. p. 148, 149 150.</note>; and the many <hi>Queries</hi> that he therein Writ, let him now <hi>Answer</hi> by plain <hi>Scripture</hi> if he can: Or other<g ref="char:EOLhyphen"/>wise it may be more truly said of him, as he doth of the <hi>Quakers,</hi> That he is Constant in Nothing but in <hi>Contradiction:</hi> And I do affirm, 'tis Reason enough for the <hi>Quakers</hi> to Disbelieve any <hi>Position,</hi> and with all their Force to oppose it, if it is not agreeable to <hi>Holy Scriptures.</hi>
+            </p>
+            <p>And will not <hi>G. K.</hi> by his own Rule, and by all Ingenious Men, that know <note place="margin">See <hi>Pref. Ex. Nar.</hi>
+               </note> his Contradiction, be esteemed a great <hi>Hypocrite,</hi> crazed in his Understanding, and stark Mad, as he says of those that hold Contradictions? For <hi>Water</hi> is not meant in <hi>Matt.</hi> 28. 19. saith <hi>G. K.</hi> and <hi>Water</hi> is meant in <hi>Matt.</hi> 28. 19. saith <hi>G. K.</hi> I shall leave it to the Judgment of those that are truly Wise, whether this is not a palpable Contradiction.</p>
+            <p>I shall pass by his <hi>Scoffs</hi> at the <hi>Quakers,</hi> because they have not, like other <hi>Societies, Confessions of Faith of Mans making:</hi> It's like that Work would have pleased him, to have had the <hi>Quakers</hi> imploy'd him therein: But <hi>Thanks be to God,</hi> they want no such; for the <hi>Lord,</hi> by his <hi>Divine Providence,</hi> for which they <hi>Bless his Name,</hi> and are <hi>Humbly Thankful</hi> to him, that he hath <hi>Preserved</hi> them such a <hi>Confession of Faith,</hi> that is better than any <hi>Man,</hi> or <hi>Council of Letter-Learned Men,</hi> could or can make, <hi>viz.</hi> the <hi>Holy Scriptures,</hi> which they sincerely believe, contain all things necessary to be Believed unto <hi>Salvation;</hi> and that which is contrary, can they not Receive or own; and <hi>Nothing</hi> but that <hi>Holy, Infallible</hi> and <hi>Unerring Spirit,</hi> which they were moved by, that wrote them, do they believe, can truly open and shew the true meaning of them.</p>
+            <p>And however earnest any Man or Men are, or may be, to Impose their <hi>Meanings, Glosses</hi> and <hi>Interpretations,</hi> who are not led thereto by <hi>God's Holy Spirit,</hi> the <hi>Quakers</hi> cannot Receive them; but what is contained therein, and agreeable thereto, they dearly own; and however <hi>Slandered, Misrepresented,</hi> or <hi>Belyed,</hi> in being rendered <hi>Slighters, Contemners</hi> or <hi>Undervaluers</hi> of them, they do esteem them the <hi>Best Writings in the World,</hi> and have great <hi>Comfort</hi> in <hi>Reading</hi> of them, and could be glad People spent more time in <hi>Reading of them,</hi> and <hi>Meditating</hi> (by the help of that <hi>Holy Spirit</hi> by which they were given forth) on those <hi>great, weighty</hi> and <hi>necessary Truths</hi> therein contained; and press their <hi>Children</hi> and <hi>Servants</hi> so to do; and to search them, that they might come to <hi>Christ,</hi> and have <hi>Eternal Life;</hi> and by his <hi>Spirit</hi> may know the <hi>Things of God.</hi>
+            </p>
+            <pb n="11" facs="tcp:46806:6"/>
+            <p> And now to his <hi>Second Pretended Reason,</hi> which is, <q>That if their <hi>Principles</hi> may be Collected out of the Books they Publish, they are too <hi>Erroneous, Heretical</hi> and <hi>Blasphemous,</hi> for any <hi>good Christian</hi> to comply with.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> So that now, in <hi>Contradiction</hi> to what he said, <hi>That the</hi> Quakers <hi>had no Principles,</hi> he grants, their <hi>Principles</hi> may be Collected out of their Books; and he hath Vindicated their <hi>Principles</hi> and <hi>Quotations</hi> out of <hi>G. Fox, G. White<g ref="char:EOLhyphen"/>head</hi>'s, <hi>W. Penn</hi>'s, <hi>W. Smith</hi>'s Books, <hi>&amp;c.</hi> altho' now he saith, they are too <hi>Erroneous, Heretical</hi> and <hi>Blasphemous.</hi>
+            </p>
+            <p>
+               <q>He hath also Queried of him (or those) that have (as he now doth) ren<g ref="char:EOLhyphen"/>der'd <note place="margin">
+                     <hi>Serious App.</hi> p. 6, <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> the <hi>Quakers,</hi> as Guilty of manifold <hi>Heresies, Blasphemies</hi> and <hi>strong Delu<g ref="char:EOLhyphen"/>sions,</hi> whether it was not extreamly Uncharitable, and a Possession with a <hi>Spirit of Prejudice</hi> and <hi>Envious Zeal,</hi> against the <hi>Quakers</hi> in <hi>General,</hi> to the ren<g ref="char:EOLhyphen"/>dering them (as he now doth) <hi>No Christians,</hi> in the lowest <hi>Degree</hi> or <hi>Rank,</hi> (while I suppose he hath some <hi>Charity</hi> to some in the Church of <hi>Rome,</hi> called <hi>Papists,</hi> and to <hi>Lutherans</hi> and <hi>Arminians,</hi> and divers others that differ widely from him) when we hold the same <hi>Fundamentals</hi> of <hi>Christian Doctrine</hi> and <note place="margin">☜</note>
+                  <hi>Faith</hi> with many others; notwithstanding (I may say <hi>G. K.)</hi> the strong <hi>Asse<g ref="char:EOLhyphen"/>verations</hi> against the <hi>Quakers,</hi> that they do not believe one <hi>Article</hi> of the <hi>Apo<g ref="char:EOLhyphen"/>stles Creed,</hi> or denied most of the <hi>Fundamental Articles</hi> of the <hi>Christian</hi> and <hi>Protestant Faith;</hi> yet he shall never be able to prove it. That they are Guilty of this <hi>his</hi> so <hi>extreamly Rash</hi> and <hi>uncharitable Charge,</hi> either as in Respect of the <hi>Body</hi> of that <hi>People,</hi> called in Scorn <hi>Quakers;</hi> or in Respect of <hi>any Parti<g ref="char:EOLhyphen"/>cular Writers</hi> or <hi>Publishers</hi> of our <hi>Doctrines, Principles</hi> and <hi>Preachers</hi> amongst us, generally owned and approved by us, as Men of sound Judgment and Un<g ref="char:EOLhyphen"/>derstanding—of unquestionable esteem among them, and worthy of double Honour, as many such there are,</q> said <hi>G. K.</hi> but now they are <hi>Heathens, He<g ref="char:EOLhyphen"/>reticks</hi> and <hi>Blasphemers.</hi>
+            </p>
+            <p>Note; Then he owned we had <hi>Principles,</hi> altho' now he saith we have none; and chargeth us to be <hi>Erroneous,</hi> which is very strange, that we should hold <note place="margin">Ibid. p. <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+               <hi>Erroneous Principles,</hi> that have none; and that he should be a <hi>Christian</hi> when he held those <hi>Principles</hi> we do, and we <hi>Heathens, Hereticks, Blasphemers,</hi> &amp;c. for <note place="margin">☜</note> holding the same <hi>Principles</hi> we then did.</p>
+            <p>He also saith, <q>That where-ever <hi>any Man,</hi> or <hi>Society of Men,</hi> err not in a <hi>Fundamental Article</hi> of the <hi>Christian Faith,</hi> we ought to have <hi>Charity</hi> towards them, as our <hi>Christian Brethren;</hi>
+               </q> (but where is his <hi>Charity</hi> now?) And I may the more Effectually make it apparent, how that by the Judgment of <hi>G. K.</hi> the <hi>Quakers</hi> are not guilty of any <hi>Fundamental Errors</hi> touching the <hi>Chri<g ref="char:EOLhyphen"/>stian Faith:</hi> I think fit to transcribe part of a Passage in his aforesaid Book, where he undertakes to describe the <hi>Intire Essence</hi> of the <hi>Christian Faith,</hi> as to the matter of it: <q>The <hi>Foundation Principle,</hi> or <hi>Fundamental Matter,</hi> is <hi>God the Father, Son and Holy Ghost:</hi> The <hi>Secondary Foundation,</hi> or <hi>Fundamental Doctrine,</hi> is those <hi>Scripture-Propositions</hi> that express our <hi>Faith</hi> in <hi>God the Father, the Son, and the Holy Ghost,</hi> &amp;c.</q>
+            </p>
+            <pb n="12" facs="tcp:46806:7"/>
+            <p> Now how can we that truly hold the <hi>Essence</hi> of the <hi>Christian Faith,</hi> be <hi>Erroneous</hi> and <hi>Hereticks, Blasphemers</hi> and <hi>Deniers</hi> of the <hi>Christian Faith,</hi> and <hi>Fundamentals</hi> of <hi>Christianity?</hi> But farther to his aforesaid <hi>Second Pretended Reason,</hi> I shall Reply,</p>
+            <p>Is it not a <hi>strong Reason,</hi> or rather very <hi>weak,</hi> for such a <hi>Learned Man</hi> as <hi>G. K.</hi> to give, for his going from a People he had so long walked among; whose <hi>Books</hi> he had <hi>Read,</hi> whose <hi>Doctrines</hi> and <hi>Principles</hi> he <hi>Declared,</hi> and stoutly <hi>Vindicated</hi> from time to time, in <hi>Publick, Private,</hi> and by <hi>Print,</hi> and <note place="margin">
+                  <hi>Serious Appeal,</hi> p. 6, 7.</note> in the <hi>Name of the Lord;</hi> and for Refusing what he hath now done, he once <hi>Suffered Imprisonment</hi> among the <hi>Quakers;</hi> and but a few Years since <hi>Declared,</hi> under his own <hi>Hand,</hi> and to the <hi>World,</hi>
+               <q>That he knew those called <hi>Quakers,</hi> and their <hi>Principles,</hi> having been Conversant with them 28 Years, and that in many Places of the World: And he did then Aver, the <hi>Quakers</hi> held the same <hi>Fundamentals</hi> of <hi>Christian Doctrine</hi> with many others: And then he pleaded <hi>not Guilty</hi> for himself; and the <hi>Body</hi> of the <hi>People,</hi> called <hi>Quakers,</hi> and all or any <hi>particular Writers</hi> or <hi>Publishers</hi> of our <hi>Doctrines</hi> and <hi>Principles,</hi> and particularly G. <hi>Whitehead</hi> and <hi>W. Penn.</hi>
+               </q>
+            </p>
+            <p>Then he could vindicate the <hi>Doctrine of Infallibility,</hi> as held by the <hi>Qua<g ref="char:EOLhyphen"/>kers;</hi> and also the <hi>Doctrine</hi> of the <hi>Resurrection, Justification;</hi> and that <hi>Re<g ref="char:EOLhyphen"/>lating</hi> to the <hi>Holy Three,</hi> or <hi>Trinity, Baptism,</hi> and many other <hi>Doctrines</hi> and things Professed and Practised by the <hi>Quakers;</hi> yea, all or most of what he chargeth in his <hi>Fourth Narrative,</hi> did he then stoutly Vindicate. But since he went from the <hi>Light,</hi> or slighted and undervalued it, that <hi>Eye</hi> is opened, that can pretend to <hi>spy Faults</hi> and <hi>Errors;</hi> and would, like the first Find<hi>-Fault,</hi> and <hi>Contradictor</hi> of <hi>God's Command,</hi> and his <hi>Doctrine,</hi> unsay, and gainsay, what was truly said. And is he so Vain, as to think it enough to say, <hi>I Retract?</hi> What if he doth now say he Lyed, and used the <hi>Name of the Lord</hi> then in vain? Will that Disprove what he truly said? Surely, nay; Let him not be so Foolish to think so, for if he doth, I am perswaded they that are truly Wise, will not Judge so.</p>
+            <p>But what is the matter with <hi>G. K.</hi> he is so <hi>Hot, Angry</hi> and <hi>Restless</hi> still? Can he not yet Please his <hi>New Lords</hi> and <hi>Masters,</hi> unless he unsays more of what he truly said, and gainsays it too? Will <hi>Lying</hi> and <hi>Contradiction</hi> in <hi>G. K.</hi> be <hi>Rewarded</hi> with a <hi>Benefice?</hi> Is that it he Gapes so wide after, and makes such a <hi>Noise</hi> and <hi>Barking</hi> at the poor <hi>Quakers,</hi> calling them <hi>Heathens, Hereticks</hi> and <hi>Blasphemers,</hi> and joyns with them that term them <hi>Cheats, Impostors,</hi> and calls them a <hi>Cursed Abominable</hi> and <hi>Blasphemous Sect?</hi> Or hath he not <hi>Oyl enough to feed his small Lamp;</hi> or <hi>a sufficient Portion of the small Box of Oyntment, his Brethren, the Three</hi> Norfolk <hi>Rectors, speaks of, and call Names about</hi> (that he, like those <hi>Priests,</hi> cries out of <hi>Errors, Heresie</hi> and <hi>Blasphemy,</hi> against the Poor <hi>Quakers)</hi> calling them <hi>Wretches</hi> and <hi>Vipers,</hi> that are for taking away their <hi>Maintenance?</hi> And, say they, <hi>Deny us Oyl to feed our Lamps, which will then go out of themselves.</hi> So that if there be no <hi>Money,</hi> no <hi>Preaching;</hi> no <hi>Penny,</hi> no <hi>Pater-Noster;</hi> and this <hi>small Box of Oyntment,</hi> and <hi>Oyl,</hi> which those <hi>Men,</hi> his <hi>Brethren,</hi> and all
+<pb n="13" facs="tcp:46806:7"/> their <hi>Retinue, Courts, Offices, Lordly Palaces, Sumptuous Houses, Ecclesiastical Dig<g ref="char:EOLhyphen"/>nities, Baronies, Glebe-Lands, Canons, Residents, Prebendaries, Vicars, Petty-Cannons, Singing-men</hi> and <hi>Boys, Choiristers, Organists, Gospellers, Epistolers, Virgers, Rents, Leases, Licenses, Instituting</hi> and <hi>Inducting Parsons</hi> and <hi>Vicars,</hi> and other <hi>Revenues</hi> and <hi>Profits,</hi> &amp;c. are computed to above <hi>Two Millions, One hundred Thousand Pounds per Annum;</hi> Besides the <hi>Ordaining Deacons</hi> and <hi>Ministers</hi> four times a Year, and making <hi>Rural Deans,</hi> and taking their <hi>Oath,</hi> and <hi>Licenses</hi> to <hi>Parish-Clerks, Physicians</hi> and <hi>Midwives,</hi> and to <hi>Marry,</hi> &amp;c. Notwithstanding all this, if the People be willing to make their <hi>Income Four Millions a Year,</hi> if they did not <hi>Force, Compel, Seize Goods</hi> and <hi>Imprison,</hi> for <hi>small Sums,</hi> those that for <hi>Conscience-sake</hi> cannot pay them, nor comply with many things they re<g ref="char:EOLhyphen"/>quire, many would have less cause to Complain; but to have Men <hi>Subpoena'd</hi> and <hi>Hurried</hi> up above a Hundred or Two hundred Miles to the <hi>Exchequer-Bar,</hi> and <hi>Committed to Gaol,</hi> so far from their <hi>Wives</hi> and <hi>Children,</hi> to the Hazard of their <hi>Healths,</hi> indangering their <hi>Lives,</hi> and making their Wives <hi>Widows,</hi> and Children <hi>Fatherless,</hi> and be called <hi>Vipers</hi> besides, if they do not readily Contribute to this <hi>small Box of Oyntment, and Oyl to feed their Lamps;</hi> these are no Proofs to the Poor <hi>Suffering Quakers,</hi> that <hi>such</hi> are <hi>Christ's Ministers,</hi> and in their <hi>Spirit</hi> and <hi>Practice;</hi> neither are those <hi>Doings, Convincing Arguments,</hi> that they, in <hi>those</hi> things and <hi>Practices,</hi> walk according to the <hi>Holy Scriptures,</hi> which they acknowledge to be the <hi>Only Rule</hi> of <hi>Faith</hi> and <hi>Practice;</hi> nor sufficient to prove, that they take the more easie way for their <hi>Tythes;</hi> or to prove what <hi>G. K.</hi> saith,</p>
+            <p>
+               <q>That this <hi>Church</hi> has not suited her <hi>Doctrines</hi> to advance any <hi>Secular In<g ref="char:EOLhyphen"/>terests;</hi>
+                  <note place="margin">Page 37.</note> but her <hi>Religion</hi> is <hi>Heavenly</hi> in its <hi>Principle, Pure</hi> in its <hi>Aim,</hi> Disdain<g ref="char:EOLhyphen"/>ing to stoop to <hi>mean Arts</hi> of <hi>Wealth</hi> and <hi>Worldly Dignities;</hi> or that these things are done in <hi>Conformity</hi> to his <hi>Example,</hi> that is the <hi>Author</hi> of the <hi>Christian Re<g ref="char:EOLhyphen"/>ligion:</hi> And if this <hi>Holy Church,</hi> as <hi>G. K.</hi> calls it, cancels none of our <hi>Obliga<g ref="char:EOLhyphen"/>tions</hi> to <hi>God</hi> or <hi>Man,</hi> as he also saith, to <hi>Love</hi> our <hi>Neighbour,</hi> to <hi>follow Justice, Mercy,</hi> and <hi>Peaceableness,</hi> and to <hi>do to all Men,</hi> as we <hi>would they should do by us:</hi> To use no <hi>Craft</hi> or <hi>Equivocations,</hi> but to be <hi>Sincere</hi> in all our <hi>Actions</hi> and <hi>Professions;</hi> to live in <hi>Kindness, Civility,</hi> and under the firmest <hi>Obligations</hi> to a <hi>true</hi> and <hi>lasting Friendship.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> Let's Revert this, and <hi>Query,</hi> Are the things afore hinted, with Re<g ref="char:EOLhyphen"/>spect to the <hi>Suffering</hi> and <hi>Hardship</hi> that many are put to, done in <hi>Conformity</hi> to him that is the <hi>Author</hi> of the <hi>Christian Religion?</hi> And is it a doing as they would be done by, for to be <hi>Subpoena'd</hi> a hundred or two hundred Miles, or more, for not paying <hi>fifteen Farthings,</hi> or other small Sums, when they have also a more easie way? And is that their way to <hi>shew</hi> their <hi>Love</hi> to <hi>God</hi> and <hi>Man,</hi> and <hi>Sincerity</hi> in all their <hi>Actions,</hi> to cause <hi>Poor Conscientious Men</hi> so to <hi>Suffer;</hi> and to get <hi>Sequestration</hi> on their <hi>Goods</hi> and <hi>Estates,</hi> for a small Matter of <hi>Pretended Dues,</hi> to <hi>Ruin them</hi> and their <hi>Families?</hi> Is this a <hi>Living</hi> in <hi>Kind<g ref="char:EOLhyphen"/>ness, Civility,</hi> and under the <hi>firmest Obligation</hi> to a <hi>true</hi> and <hi>lasting Friendship,</hi>
+               <pb n="14" facs="tcp:46806:8"/> to be so <hi>Unfriendly</hi> to <hi>Poor, Honest, Industrious Farmers</hi> and <hi>Tradesmen?</hi> What is such <hi>small Sums</hi> out of 2100000 <hi>l. per Annum? Trades-Men</hi> that deal but for the 500th part of that <hi>per Annum,</hi> and who do not pretend to that which those Men do, would <hi>Scorn</hi> to Sue and Molest a Man for such small Sums, altho' they had of them a <hi>Valuable Consideration</hi> for it, which the Poor <hi>Suffer<g ref="char:EOLhyphen"/>ing Quakers</hi> have not: And as to that he calls <hi>J. A</hi>'s Letter, read the <hi>Creed-For<g ref="char:EOLhyphen"/>gers Detected,</hi> (wherein it's shewn, how <hi>G. K.</hi> hath vindicated our <hi>Doctrines)</hi> and take what is said therein for Answer about <hi>J. A</hi>'s Letter. And now to his <hi>Third Reason.</hi>
+            </p>
+            <p>He saith, <q>To Conclude, Another <hi>Reason</hi> why I <hi>Deserted</hi> the <hi>Quakers,</hi> was, <note place="margin">Page 32.</note> Because I am able, through <hi>Mercy;</hi> to prove, That they do not believe <hi>one Article</hi> of the <hi>Apostles Creed.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> This is notorious False, <hi>viz.</hi> That the <hi>Quakers</hi> disbelieve <hi>every Article</hi> of the <hi>Apostles Creed,</hi> which <hi>G. K.</hi> Insinuates, by saying, <hi>They do not believe one Article of the Apostles Creed;</hi> for which let him take his own Answer before, for there is not any <hi>Article</hi> of the <hi>Christian Faith,</hi> which is by <hi>Christ</hi> or <hi>Holy Scripture</hi> enjoyn'd upon <hi>Christians</hi> to be believed, and is absolutely ne<g ref="char:EOLhyphen"/>cessary to <hi>Salvation,</hi> but what the People, called <hi>Quakers,</hi> own, let <hi>G. K.</hi> say what he will: But whatever is contrary thereto, they esteem not themselves obliged to believe, neither to take the <hi>Corrupt Meanings</hi> and <hi>Inferences,</hi> or <hi>unconsequential Consequences</hi> of <hi>Men,</hi> not pretending to be led by that <hi>Holy Spirit</hi> the <hi>Pen-men</hi> of the <hi>Holy Scriptures</hi> were led by, for the True Meaning of the <hi>Scriptures.</hi> And if <hi>G. K.</hi> may be believed, the <hi>Quakers</hi> are <hi>Sound,</hi> as to <hi>Funda<g ref="char:EOLhyphen"/>mentals;</hi> and in the Belief of the <hi>Apostles Creed;</hi> but what's contrary to the <hi>Holy Scriptures,</hi> the <hi>Quakers</hi> disown.</p>
+            <p>Now I may say something to the <hi>Reasons</hi> he Assigns for his <hi>Change,</hi> and the first is, as he saith, <q>Because in <hi>Purity</hi> of <hi>Doctrine</hi> and <hi>Discipline,</hi> she comes nearest to the <hi>Pattern</hi> of <hi>Primitive Christianity,</hi> and Administers the <hi>Sacraments</hi> according to <hi>Divine Prescription.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> This indeed is sooner said, than proved; for I cannot find in the <hi>Holy Scriptures,</hi> several things which they teach, and enjoyn to be Practised; neither is it clear to me from the <hi>Holy Scriptures,</hi> that what they call <hi>Sacra<g ref="char:EOLhyphen"/>ments,</hi> were so Practised in the <hi>Primitive Times,</hi> as they Practise them, and enjoyn on People to Practise them: And seeing <hi>G. K.</hi> is a new <hi>Convert,</hi> let him, in Contradiction to what he hath Writ and Published, prove, accor<g ref="char:EOLhyphen"/>ding to that Method which he hath laid down in his <hi>Retractations, viz.</hi> That where he saith, <q>I still <hi>Adhere</hi> to my former <hi>Advice,</hi> that nothing be Required <note place="margin">
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>tracta<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ns, p.</hi> 34.</note> by one sort from another, as an <hi>Article</hi> of <hi>Faith,</hi> or <hi>Doctrine,</hi> in <hi>Common</hi> to be believed, but what is expresly delivered in the <hi>Scriptures,</hi> in plain and express <hi>Scripture Terms.</hi>
+               </q> I therefore require of him, so to prove, as well as say; that is, that the <hi>Doctrines</hi> and <hi>Discipline</hi> of that <hi>Church</hi> (in all the Parts, or its <hi>Dis<g ref="char:EOLhyphen"/>cipline,</hi> and all the <hi>Doctrines)</hi> of that Church he hath joyned himself, and is be<g ref="char:EOLhyphen"/>come a Member of, if he accounts them <hi>Articles</hi> of <hi>Faith,</hi> or <hi>Doctrines</hi> in common
+<pb n="15" facs="tcp:46806:8"/> to be believed, in plain and express <hi>Scripture Terms;</hi> and proves all the <hi>Terms</hi> of all the <hi>Creeds</hi> he mentions, in plain and express <hi>Scripture Terms;</hi> for he hath so often said and unsaid, varied, changed, and turned like the Weather-cock, that his bare word is not to be taken herein.</p>
+            <p>His <hi>Second Reason</hi> he saith, is, <q>Because in the main <hi>Articles of Faith,</hi> the <note place="margin">
+                     <hi>Reason</hi> Page 34.</note> whole Church is of one mind, and have as much <hi>Unity</hi> in <hi>Faith</hi> among them, as they had in the First Churches Planted by the <hi>Apostles</hi> themselves.</q>
+            </p>
+            <p>
+               <hi>Reply.</hi> This also wants Proof, altho' confidently affirmed: What then, are they no Members of that Church he now Pretends to be of, that have writ so much one against another about the <hi>Trinity?</hi> And were <hi>Lock</hi> and the late Bishop of <hi>Worcester</hi> in perfect Unity, or were they no Members of that <hi>Church?</hi> Or was <hi>He,</hi> the said <hi>Bishop</hi> writ to about <hi>Deism,</hi> no <hi>Member</hi> of that <hi>Church?</hi>
+            </p>
+            <p>But indeed <hi>G. K.</hi> doth grant, some Men have Preach'd <hi>strange Doctrine, and drawn Disciples after them,</hi> yet they have not prevailed against this <hi>Church,</hi> nor over-turned its <hi>Faith;</hi> and if some looser part of the <hi>People</hi> have been car<g ref="char:EOLhyphen"/>ried away, yet the <hi>Body</hi> of the <hi>Church,</hi> like an <hi>unmoveable Rock,</hi> still persists in as great <hi>Unity,</hi> as was <hi>Anciently</hi> in any of the <hi>Apostolical Churches.</hi>
+            </p>
+            <p>Oh <hi>George!</hi> This way of Arguing would hardly pass with thee in another; thou wouldst be for Condemning the whole, if they did not condemn the particular Persons for their Error; and would charge their Errors on them that do not condemn them, in thy Terms.</p>
+            <p>But let me also enquire, whether <hi>G. K.</hi> doth Infallibly know, what he <note place="margin">
+                  <hi>Immed. Rev.</hi> Page 188</note> saith of the <hi>Church</hi> he is now joyned with; because he hath told them, <q>That if they did not Infallibly know one another, they could not have <hi>Peace,</hi> and <hi>Vnity,</hi> and <hi>Concord,</hi> one with another; For how could they discern the <hi>True Friend</hi> from the <hi>Secret Enemy?</hi> The <hi>Deceiver,</hi> which is the most <hi>Dan<g ref="char:EOLhyphen"/>gerous Enemy,</hi> and comes into all <hi>Outwards</hi> and <hi>Appearances,</hi> can put on the <hi>Sheeps Cloathing,</hi> yet be a <hi>Rotten Hypocrite</hi> (mind that <hi>G. K.)</hi> a <hi>Limb of Satan,</hi> a <hi>Brat</hi> of <hi>Babylon.</hi>
+               </q>
+            </p>
+            <p>And if this <hi>Church</hi> should appear to be set up in the <hi>Apostacy,</hi> then he saith, <q>That these <hi>many Churches,</hi> that have been set up in the <hi>Apostacy,</hi> have not <note place="margin">p. 189.</note> been True <hi>Churches,</hi> by reason of their <hi>Warring</hi> one against another, <hi>Hatred, Variance, Strife, Emulation, Killing</hi> and putting to Death one another; and where-ever any thing of this <hi>Spirit of Strife, Hatred, Envy, Persecution,</hi> enters, it eats as a <hi>Canker</hi> [remember this <hi>George]</hi> and cuts off the <hi>Body</hi> that Member or Members whereinto it gets enterance; and so going from the <hi>Unity,</hi> the <hi>Peace,</hi> the <hi>Love,</hi> they become <hi>past feeling, Dead, Rotten Members,</hi> and are to be Cut off and Denied, said <hi>G. K.</hi> And I cannot <note place="margin">
+                     <hi>Way Cast up.</hi> p. 56<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </note> in the <hi>least</hi> acknowledge, that <hi>ever any National Church,</hi> can be a <hi>True Church</hi> of <hi>Christ,</hi> said <hi>G. K.</hi>
+               </q>
+            </p>
+            <pb n="16" facs="tcp:46806:9"/>
+            <p> And in his <hi>Retractations</hi> he saith, concerning his former Books, <hi>Way Cast up,</hi> &amp;c. <note place="margin">
+                  <gap reason="illegible: page cropped" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 41, 42.</note> The Passages themselves in great part sufficiently serve to clear him; and that he remains Constant to his former <hi>Principles.—</hi>As they stand in his own Books—that instead of their thinking to do him a Diskindness, so as to prove him chang'd from his former <hi>Principles,</hi> they have done him a Kindness. So that if he is not Changed in his <hi>Principles,</hi> he must be of the same <hi>Principles;</hi> and then let his <hi>New Brethren</hi> consider what their <hi>New Sworn Deacon's Principles</hi> are, with Re<g ref="char:EOLhyphen"/>spect to the <hi>Light within,</hi> and other <hi>Doctrines</hi> and <hi>Principles;</hi> if they be the same they were, and he holds the same <hi>Principles</hi> he did, when a <hi>Quaker,</hi> what need he give <hi>Reasons</hi> for his <hi>Change,</hi> or find fault with the <hi>Quakers,</hi> and call them <hi>Hereticks, Blasphemers</hi> and <hi>Heathens,</hi> by Whole-sale, which hold the same <hi>Principles</hi> he doth? If he is not Changed in his <hi>Principles,</hi> is not he then as great a <hi>Heretick, Blasphemer</hi> and <hi>Heathen</hi> as they?</p>
+            <p>But to his Third Reason for his Change, where he saith, <q>
+                  <hi>Thirdly,</hi> Another <hi>Reason</hi> that induceth me to imbrace the <hi>Religion</hi> Professed in the Church of <hi>England,</hi> was, Because She Maintains the <hi>Scriptures</hi> to be the <hi>Word of God,</hi> the <hi>Rule of Faith,</hi> the <hi>Judge of Controversies,</hi> and the <hi>Guide of Humane Life.</hi>
+               </q>
+            </p>
+            <p>
+               <hi>Reply.</hi> But <hi>G. K.</hi> in his Book Intituled, <hi>The Fundamental Truthi of Christia<g ref="char:EOLhyphen"/>nity,</hi> &amp;c. p. 16. hath proposed this <hi>Question,</hi> and given the <hi>Answer</hi> following.</p>
+            <p>
+               <hi>Quest.</hi> What <hi>Rule</hi> (or <hi>Law)</hi> hath God given unto Men, to <hi>Serve, Obey,</hi> and <hi>Worship</hi> him?</p>
+            <p>
+               <hi>Answ.</hi>
+               <q>The <hi>Word of God,</hi> that is nigh unto us, even in our Hearts, that they may know it, Believe it, and Obey it: This is the <hi>Law</hi> or <hi>Rule</hi> of the <hi>New Covenant;</hi> who walk after this <hi>Rule, Peace</hi> is and <hi>shall</hi> remain upon them; neither is there any <hi>Condemnation</hi> unto them, but <hi>Justification</hi> and <hi>Approbation</hi> from henceforth and <hi>for ever,</hi> saith <hi>G. K.</hi> But, saith <hi>G. K.</hi> I re<g ref="char:EOLhyphen"/>main <hi>Constant</hi> to my former <hi>Principles,—</hi>as they stand in my own Books. <note place="margin">
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ract.</hi>
+                     <gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 41.</note>
+               </q>
+            </p>
+            <p>And for Proof hear him, <q>The <hi>True Doctrine</hi> and <hi>Sense</hi> of the <hi>Light within,</hi> as a <hi>Divine</hi> and <hi>Supernatural Gift of God;</hi> of whom it is truly said, <hi>The Lord is</hi>
+                  <note place="margin">
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Nar.</hi> 105.</note>
+                  <hi>their Light, and their Salvation:</hi> And also that <hi>Christ,</hi> the <hi>Eternal</hi> and <hi>Essential Word; who was in the Beginning with God, and was and is God, is that True Light, that doth enlighten every Man coming into the World;</hi> and is not <hi>Christ,</hi> that <hi>was with God,</hi> and <hi>was God,</hi> sufficient to Save without any thnig else?</q> And now to shew what Unity <hi>G. K.</hi> and his Brethren the Three <hi>Norfolk</hi> Rectors, <hi>&amp;c.</hi> are in, as to this <hi>Fundamental Doctrine,</hi> read one and the other.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Priests.</cell>
+                     <cell>Parson <hi>Keith.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>The <hi>Light within</hi> is a Whimsical Wit<g ref="char:EOLhyphen"/>ness, fetch'd from the Land of <hi>Terra In<g ref="char:EOLhyphen"/>cognita;</hi> but a Spark from the Devil's Forge; <note n="†" place="margin">
+                           <hi>
+                              <gap reason="illegible: page cropped" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ectors,</hi>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>.</note> the Grand Impostor; <note n="*" place="margin">
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>7. <hi>
+                              <gap reason="illegible: page cropped" extent="1+ letters">
+                                 <desc>•…</desc>
+                              </gap>marks</hi>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>. <hi>
+                              <gap reason="illegible: page cropped" extent="1 letter">
+                                 <desc>•</desc>
+                              </gap>ectors.</hi>
+                           <gap reason="illegible: page cropped" extent="1+ letters">
+                              <desc>•…</desc>
+                           </gap>.</note> the <hi>Scriptures</hi> are the <hi>Spirits Rule.</hi>
+                     </cell>
+                     <cell>The <hi>Light within</hi> is <hi>God-Christ,</hi> the Eternal and Essential <hi>Word;</hi> the <hi>Word</hi> of God that is nigh unto us, even in our Mouths, this is the Rule as before.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Oh rare <hi>Unity!</hi> Is this like what was in the <hi>Primitive Times?</hi>
+            </p>
+            <pb n="17" facs="tcp:46806:9"/>
+            <p> Now if <hi>G. K.</hi> had kept to his old Rule or Guide, or what he formerly Professed to be his Guide, and <hi>Judge of Controversies,</hi> &amp;c. (and preferred to the <hi>Letter</hi> of the <hi>Scriptures,)</hi> which he then called the <hi>Word of God,</hi> had he kept thereto, been Ruled and Guided thereby, he would not have made this <hi>Change,</hi> nor needed to Advance what he calls <hi>Reasons</hi> for his <hi>Change;</hi> had he relyed upon the <hi>Word</hi> and <hi>Spirit</hi> of God, which are one, and been Guided thereby, it would not suffer him to be so misled; for taking it to be his Rule or Guide, he would not take any thing to be an Essential part of <hi>Christian Faith,</hi> which is not delivered unto us in the <hi>Holy Scriptures:</hi> And the <hi>Quakers</hi> that keep to this Guide, cannot take those things to be Essential parts of <hi>Christian Faith,</hi> which are not so delivered; neither do they think it necessary to entertain any thing that the Holy Scriptures do not teach us; for whatsoever is not <hi>Read therein,</hi> nor can be <hi>proved thereby,</hi> is not to be <hi>Required</hi> of any Man, that it should be <hi>Believed</hi> as an <hi>Article</hi> of <hi>Faith;</hi> or be thought requisite and necessary to <hi>Salvation.</hi> And seeing the <hi>Catechism</hi> saith, <hi>The Sacraments Christ hath ordained in his Church, are two only necessary to Salvation:</hi> If he esteem this as an <hi>Article</hi> of <hi>Faith,</hi> or <hi>Doctrine,</hi> in common to be Believed, and still adheres to his former Advice, let him prove it is expresly delivered in the <hi>Scriptures,</hi> in plain and express <hi>Scripture-Terms.</hi> And also the <hi>Sprinkling</hi> of <hi>Infants</hi> with <hi>Water, Signing</hi> them with the <hi>Sign of the Cross,</hi> when no <hi>Sign</hi> is to be seen; having <hi>God-fathers</hi> and <hi>God-mothers,</hi> so called; and calling it the <hi>Baptism of Christ;</hi> the <hi>Scriptures</hi> do not so teach, is not to be read therein, that I could ever find, or can be proved thereby, nor ought to be required of any Man, to believe as an <hi>Article of Faith,</hi> as <hi>G. K.</hi> acknowledgeth. And many other things, Professed and Practised by him, and others, as is touched before, he would be hard put to it, to prove by <hi>Holy Scripture,</hi> and in Plain and Express <hi>Scripture-Terms.</hi>
+            </p>
+            <p>And indeed, it would more abundantly become <hi>G. K.</hi> and all those of his Bre<g ref="char:EOLhyphen"/>thren, that take upon them to Teach others, to <hi>Study to be Quiet, forsake Evil, do Good, Love and Fear God,</hi> rather than to be so <hi>Turbulent</hi> and <hi>Contentious,</hi> so <hi>Envious</hi> and <hi>Malicious, Fierce, Hot</hi> and <hi>Angry,</hi> and therein to seek to stir up <hi>Persecu<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Incense</hi> the <hi>Government</hi> against their <hi>Peaceable Neighbours,</hi> under a Pretence it's all for <hi>Christ's sake,</hi> and Promotion of <hi>Religion;</hi> when its to <hi>Vent</hi> their <hi>Malice,</hi> and <hi>shew</hi> their <hi>Enmity;</hi> and as he that abode not in the <hi>Truth,</hi> and was a <hi>Lyar</hi> from the Beginning, led <hi>Cain</hi> to Envy and Murder his Bro<g ref="char:EOLhyphen"/>ther: So he moves and leads those that are gone from the <hi>Truth,</hi> and become Adversaries thereto, to <hi>Envy</hi> and <hi>Murder,</hi> in their <hi>Christian Names</hi> and <hi>Repu<g ref="char:EOLhyphen"/>tation,</hi> those that once were their Brethren, and which they know own all the <hi>Fundamentals</hi> of the <hi>Christian Religion;</hi> and, through the Grace of God, are enabled to live in as great <hi>Conformity</hi> thereto, as any of their Neighbours; and are of as <hi>Blameless Conversations</hi> as the best of them; and make it their <hi>Christian Care</hi> to <hi>Adorn</hi> the <hi>Doctrine</hi> of <hi>Christ</hi> our <hi>Saviour</hi> in all things, according to the best of their <hi>Understandings;</hi> and have <hi>Hope</hi> and <hi>Confidence</hi> in God, that through the <hi>Faith</hi> and <hi>Patience</hi> of the <hi>Lamb</hi> of <hi>God,</hi> they shall overcome; and
+<pb n="18" facs="tcp:46806:10"/> through him that hath <hi>Loved</hi> them, and <hi>Dyed</hi> for them, the <hi>Lord Jesus Christ,</hi> the <hi>Captain</hi> of their <hi>Salvation,</hi> they shall, notwithstanding all the <hi>Rage</hi> of the <hi>Ungodly,</hi> the <hi>Malice</hi> of <hi>Apostates,</hi> and <hi>Gain-sayings, Lyes, Slanders, False Accusa<g ref="char:EOLhyphen"/>tions,</hi> and <hi>Mis-representations of Truth,</hi> and their <hi>Enemies,</hi> be made more than <hi>Conquerors:</hi> And for the <hi>Help, Strength, Faith, Patience,</hi> God hath been graci<g ref="char:EOLhyphen"/>ously pleased, hitherto to afford them, they do, with <hi>Humble</hi> and <hi>Contrite Hearts,</hi> Return, through <hi>Jesus Christ,</hi> their only <hi>Saviour, Redeemer,</hi> and <hi>Advo<g ref="char:EOLhyphen"/>cate,</hi> and by the Assistance of the <hi>Holy Spirit,</hi> their <hi>Sanctifier, Praises, Thanks<g ref="char:EOLhyphen"/>givings, Glory,</hi> and <hi>Honour</hi> to <hi>God</hi> and the <hi>Lamb,</hi> that sits upon the <hi>Throne,</hi> and the <hi>Holy Spirit,</hi> which <hi>Three</hi> they firmly believe are <hi>One Holy Almighty God, over all, Blessed for ever.</hi> Amen.</p>
+            <p>
+               <hi>And for</hi> Conclusion, <hi>I may give one</hi> Quotation <hi>more out of</hi> G. Keith<hi>'s</hi> Serious Appeal, <hi>Chap.</hi> 1. <hi>P.</hi> 1. <hi>and Recommend it to all the Sober People of the Church of</hi> England.</p>
+            <p>
+               <q>COncerning the <hi>Quakers,</hi> I thought fit to Transcribe some few Passages of <hi>Richard Baxter,</hi> in a Printed Book of his, called, <hi>Directions for Weak Di<g ref="char:EOLhyphen"/>stempered Christians,</hi> that may be of some Service to that Injured People, called in Scorn <hi>Quakers,</hi> (saith <hi>G. Keith,)</hi> from my own Observation, which, with a grieved Soul, I have made in this <hi>Generation.</hi> I hereby give Warning to this, and all succeeding <hi>Ages,</hi> that if they have any Regard to <hi>Truth,</hi> or <hi>Charity,</hi> they take heed how they believe any <hi>Factious, Partial Historian,</hi> or <hi>Divine,</hi> in any <hi>Evil</hi> that he saith, of the Party that he is against; for (tho' there be Good and Credible Persons of most Parties, yet) you shall find, that <hi>Passion</hi> and <hi>Partiality</hi> prevaileth against <hi>Conscience, Truth,</hi> and <hi>Charity,</hi> in most that are Sick of this Disease; and that the <hi>Envious Zeal</hi> which is described, <hi>James</hi> 3. doth make them think they do God Service; <hi>First,</hi> In Believing False Reports; and then, in venting them against those, that their <hi>Zeal,</hi> or <hi>Faction,</hi> doth call the Enemies of <hi>Truth—</hi>Most Christian is that Advice of Dr. <hi>Hen. Moore,</hi> That <hi>all Parties of Christians would mark all the Good which is in other Parties, and be more forward to speak of that, than of the Evil:</hi>
+               </q>
+               <hi>And this</hi> (saith <hi>Baxter) would promote the Work of</hi> Charity <hi>in the Church, and the</hi> Interest <hi>of</hi> Chri<g ref="char:EOLhyphen"/>stianity <hi>in the World; whereas the overlooking of all that is good, and aggravating all the Evil (and falsly feigning more than is true) is the Work of greatest Service to the Devil,</hi> &amp;c. Now if <hi>Richard Baxter, George Keith, Francis Bugg,</hi> and the <hi>Norsolk</hi> Clergy, with the <hi>Snake in the Grass,</hi> &amp;c. had well practised this Advice, they would not have been so Uncharitable to the People, called <hi>Quakers,</hi> as they have been.</p>
+         </div>
+         <div type="postscript">
+            <pb n="19" facs="tcp:46806:10"/>
+            <head>POSTSCRIPT.</head>
+            <p>THere is much Noise made from <hi>Press</hi> and <hi>Pulpit,</hi> in <hi>Publick News-Papers</hi> and <hi>Sermons,</hi> of many <hi>Quakers</hi> being lately <hi>Gone to Church,</hi> since <hi>G. Keith</hi> hath been disowned by the <hi>Quakers;</hi> but we never yet could be favoured with a <hi>List</hi> of them; neither can we reckon above Five or Six in all <hi>England,</hi> that were in <hi>Fellowship</hi> with us, when <hi>G. K.</hi> came last to <hi>England.</hi> And we are fully perswaded of this, that they cannot produce one who is mended in his <hi>Morals,</hi> and, by his <hi>Spirit</hi> and <hi>Fruits,</hi> shews, he or she hath had such a <hi>Change</hi> wrought in and upon them for the better, that will manifest they are more <hi>Humble</hi> and <hi>Christian</hi> in their <hi>Conversation,</hi> altho' they may be more <hi>Contentious</hi> and <hi>Envious.</hi> Therefore we esteem the Noise and Clamour, more from <hi>De<g ref="char:EOLhyphen"/>sign</hi> than <hi>Truth;</hi> for if any, to gratifie <hi>G. K.</hi> and humour the Design, appear in some things like <hi>Quakers,</hi> or pretend they were <hi>Quakers,</hi> when they were never owned as such, it shews such have little Sincerity or true Christianity. And we thought meet to Recommend the following <hi>Queries,</hi> for <hi>G. K.</hi> and his Eight Brethren, that have Attested his late Sheet, to Answer; and the following <hi>Advertisement</hi> for their <hi>Consideration.</hi>
+            </p>
+         </div>
+         <div type="queries">
+            <head>
+               <hi>Concerning the Sacrament of the Lord's Supper</hi> (so called) G. K. <hi>Querieth.</hi>
+            </head>
+            <p n="1">1. <q>WHat Scripture hath he and his Brethren, to call that Eating of Bread, <note place="margin">
+                     <hi>Truths D<gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLunhyphen"/>fence,</hi> &amp;<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> p. 148, 1<gap reason="illegible: page cropped" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 150.</note> and Drinking of Wine, once or twice in a Year, in the Publick Assembly, the <hi>Sacrament?</hi>
+               </q>
+            </p>
+            <p n="2">2. <q>What Scripture have they to Instruct them how oft they should use it, as once, twice, or four times in every Year? And if they have none, was it not then left to People, according to the Query, at least as to the time?</q>
+            </p>
+            <p n="3">3. <q>What Scripture have they for Consecrating it? or when did Christ say, <hi>Before ye eat it, Consecrate it?</hi>
+               </q>
+            </p>
+            <p n="4">4. <q>When did Christ give only the Power to a <hi>Priest,</hi> or <hi>Presbyter,</hi> or ordained <hi>Minister,</hi> to Consecrate it, so as without the said Consecration by some <hi>Priest,</hi> or ordained <hi>Minister,</hi> it is no <hi>Sacrament?</hi> And seeing every Christian may Eat it as well as the Minister, why may he not also Consecrate it, as well as he, seeing every true Christian is a Priest?</q>
+            </p>
+            <p n="5">5. <q>Where did Christ appoint, that these Words, <hi>Take, Eat, this is my Body,</hi> should be the words of Consecration? And have ye not received all this from the <hi>Papists,</hi> and not from <hi>Christ?</hi>
+               </q>
+            </p>
+            <p n="6">6. <q>Seeing ye commonly say, that this <hi>Sacrament</hi> of the <hi>Supper</hi> is come in the room of the <hi>Passover,</hi> and under the Law every Family had Power, with<g ref="char:EOLhyphen"/>out a Priest, to Celebrate the Passover; why hath not also every Family,
+<pb n="20" facs="tcp:46806:11"/> under the Gospel, as much Power, without any ordained Priest or Minister, to Celebrate that called the <hi>Supper?</hi>
+               </q>
+            </p>
+            <p n="7">7. <q>Seeing every true Christian feeds daily by Faith upon the Body of Christ, according to the Protestant Doctrine, and ought daily to remember the Death of Christ in all their Eating and Drinking, which is also Sanctified unto them by the Word of God and Prayer, what peculiar Vertue or Efficacy hath your Sacramental Eating, more than ordinary Eating, when done with Godly Fear, Prayer, and Thanksgiving, and Remembring the Lord's Death?</q>
+            </p>
+            <p n="8">8. <q>Seeing it's clear from <hi>Luke</hi> 22. 17, 18, 19, 20. that Christ did take the Cup twice, once before he gave them the Bread, and once after, bidding them do the same; Why take ye the Cup but once? Was this only a bare Circumstance?</q>
+            </p>
+            <p n="9">9. <q>Is not the Apostle <hi>Paul,</hi> 1 <hi>Cor.</hi> 10. 15, 16, 17. to be understood of quite another Bread and Cup, than that which is Visible and Outward, when he saith, <hi>I speak as to Wise Men, judge ye what I say?</hi> (Did he not say this, be<g ref="char:EOLhyphen"/>cause he was to speak of the Bread and Cup in the Mystery, as it was <hi>Alto<g ref="char:EOLhyphen"/>gether</hi> a Spiritual and Invisible thing, to wit, The real Body and Blood of Christ Spiritually received, which none but the Spiritually Wise could un<g ref="char:EOLhyphen"/>derstand?) <hi>The Cup of Blessing which we bless, is it not the Communion of the Blood of Christ? The Bread which we break, is it not the Communion of the Body of Christ? For we being many, are one Bread; for we are all Partakers of that one Bread.</hi> Is it not clear from all this, that <hi>Paul</hi> speaks not of any Visible and Corruptible Bread, but of Christ himself, as he is Spiritually and Invisibly received by Faith, whom he calls the <hi>same Spiritual Meat and Drink,</hi> which the Fathers received of old? See the same Chapter, Verse 3, 4.</q>
+            </p>
+            <p n="10">10. <q>Do any receive the Supper of the Lord, or Sup with the Lord, but such as <hi>Open to him,</hi> and <hi>hear his Voice,</hi> according to <hi>Rev.</hi> 3. 20? And is not this Supper (or Supping with the Lord) <hi>Altogether</hi> Inward Spiritual, and Invisible?</q> Gal. 2. 18. <hi>If I build again the things which I destroyed, I make my self a Trans<g ref="char:EOLhyphen"/>gressor.</hi>
+            </p>
+            <p>
+               <q>And here I give the Reader an Advertisement, that altho' the World's <note place="margin">
+                     <hi>
+                        <gap reason="illegible: page cropped" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>mediate <gap reason="illegible: page cropped" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>evelation</hi> 243, 244 <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>45, 246, <gap reason="illegible: page cropped" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>47.</note> Searchers and Professors of <hi>Christ</hi> in the <hi>Letter,</hi> accuse us as <hi>Denyers of Christ,</hi> at least as Man, and of the Benefits and Blessings we have by him; yet that the <hi>Doctrine</hi> and <hi>Principles</hi> of the People called <hi>Quakers,</hi> as well as the <hi>People,</hi> do indeed more acknowledge <hi>the Man Christ Jesus,</hi> and do more impute all <note place="margin">☞</note> our Blessings and Mercies that are given us of God, as conveyed unto us through him, unto the <hi>Man Jesus,</hi> than any of them all; in as much as we do believe and acknowledge, that a Measure of the same Life and Spirit of the <hi>Man Jesus,</hi> which dwelt in him, in its Fulness, and had its <hi>Centre</hi> in him, which then came in the Flesh, and was Born of the Virgin <hi>Mary,</hi> and is now <hi>Glorified in Heaven,</hi> is Communicated unto us, and doth extend it self into our very Hearts and Souls, and whole Inward Man; so that the <hi>Man Jesus,</hi> who <hi>Simeon</hi> imbraced with his Arms, according to the Flesh, is, ac<g ref="char:EOLhyphen"/>cording
+<pb n="21" facs="tcp:46806:11"/> to the Spirit, our Light, and Life, and Glory, even as he Prophe<g ref="char:EOLhyphen"/>sied concerning him, saying, <hi>Lord, now lettest thou thy Servant depart in Peace, according to thy Word, for mine eyes have seen thy Salvation, which thou hast pre<g ref="char:EOLhyphen"/>pared before the face of all People, a Light to lighten the Gentiles, and the Glory of thy People</hi> Israel, <hi>Luke</hi> 2. 29, 30, 31, 32. This he spake concerning the <hi>Man Jesus,</hi> when he was a Child; this is He, of whom <hi>Isaiah</hi> Prophesied, <hi>A Man shall be an hiding place,</hi> &amp;c. who is called the <hi>Man of God's right hand,</hi> the <hi>Second Adam,</hi> who is the <hi>Quickning Spirit,</hi> by whom we receive Life, and Grace, and Truth, and through whom we have access unto God, who is the <hi>Mediator</hi> betwixt God and Man, <hi>even the Man Christ Jesus,</hi> 1 Tim 2. 5. In whom God cometh down unto us, and in whom also we Ascend unto Him, which <hi>Man</hi> we are bidden put on; who is called the <hi>New Man,</hi> as he is also called the <hi>New and Living Way,</hi> because his Life and Spirit, and Spiri<g ref="char:EOLhyphen"/>tual Vertue and Influence, doth renew the Soul, and is pure, and fresh, and incorruptible in its Nature, so that it never waxeth old; and He is called the <hi>hidden Man of the Heart,</hi> whom <hi>Paul</hi> witnessed that he lived in him, this he understood of <hi>Christ as Man;</hi> for as God he liveth in all, neither as God can he be Crucified or Dye; and yet he is Crucified in those that are Ungodly, in whom, as they turn from their Ungodliness, he cometh to live; whose Life, as a Seed, is sown in every Man; and as every Seed hath its Body, so hath this Seed its Body; which as it is raised up in us, the Life is raised up, or revealed in it; through which Life of the <hi>Man Jesus,</hi> we have access unto the Father, and have our Fellowship both with the Father and the Son; and this <hi>Man, Christ Jesus,</hi> is one, where-ever he is revealed or made mani<g ref="char:EOLhyphen"/>fest, the Fulness and <hi>Centre</hi> of whose Life, did dwell in that <hi>Temple</hi> which the <hi>Jews</hi> Crucified at <hi>Jerusalem,</hi> which, after three days, he raised up again, as he Prophesied himself, which is Ascended into Glory, and in which the Fulness of his Life doth still dwell, and will for ever, and the Fulness of the Father in him; and out of his Fulness, as <hi>John</hi> declared, we receive <hi>Grace for Grace,</hi> even as the Streams of Water come from out of the fulness of a Spring; and as the Beams and Influences of Light and Warmth, which fill the whole Firmament, and reach unto the habitable parts of the Earth, come from out of the fulness of the Sun, even so the <hi>Man Jesus Christ,</hi> who suffered in the Flesh at <hi>Jerusalem,</hi> above sixteen hundred Years ago, is the Spring, out of which all the Streams of Living Water flow into our Souls; and the Sun, out of which, and from which, all the Light we have shineth into our Souls, in whom the <hi>fulness of the Godhead dwelleth,</hi> and through whom, God doth communicate unto us every good and perfect Gift; for as the <hi>Man</hi> is the Head of the <hi>Woman,</hi> and as <hi>Christ</hi> is the Head of the <hi>Man,</hi> so <hi>God</hi> is the Head of <hi>Christ,</hi> as <hi>Paul</hi> declared: This is to be understood of the <hi>Man Christ,</hi> or of <hi>Christ as Man;</hi> for it cannot be understood how God is the Head of Christ as God, but as Man, in seeing Christ is our Head as Man, as Man he floweth into us; that is to say, the Spirit and Life of him, as he is Man, or the <hi>Second Adam,</hi> floweth into us, and is our Life.</q>
+            </p>
+            <pb n="22" facs="tcp:46806:12"/>
+            <p>
+               <q>Nor is this to make <hi>many Christs,</hi> as some foolishly and ignorantly charge us; for as the Natural Life of Man, that hath the <hi>Centre</hi> in the Heart, and floweth into all the Members of the Body, is yet but one Life or Soul, even so the Life, or Spirit, or Soul of Christ, is but one, altho' it flow forth into all his Members, and in some sort, into all Mankind, whereby they are all put into a Capacity, in a day or time of Visitation, to become his Members.</q>
+            </p>
+            <p>
+               <q>And thus, I hope, it may appear, how much more <hi>we own Christ Jesus,</hi> not only as <hi>God,</hi> but as <hi>Man,</hi> and that both inwardly and outwardly; for, through the measure of the Life of <hi>Jesus Christ,</hi> as Man made manifest in us, we have immediate Fellowship and Union with the <hi>Man Christ Jesus</hi> also without us, who is Ascended into the Heavens; even as in the Natural Body the remotest Members have Fellowship with the Heart and Head, through that one Natural Life, which is diffused through the whole Body, but dwelleth most fully in these principal Parts.</q>
+            </p>
+            <p>
+               <q>Therefore all our Prayers and Breathings, and Cries, in the Spirit and Life of <hi>Jesus</hi> in us, do immediately reach unto the <hi>Man Jesus</hi> ascended unto Glory, and he is touched with them, and moved and influenced thereby; yea, as the Apostle declared, <hi>He is touched with the feeling of our Infirmities,</hi> although now glorified in the Heavens; and by, and through the <hi>Man Jesus,</hi> help doth come down unto us from the Father of Lights, and all our Refreshments, Quicknings, Consolations, and Renewings of Life and Strength, come unto us from God through Him, in whom we have Favour with God, in whom God is well pleased with us, in whom God is, and ever was, <hi>Reconciling the World unto himself,</hi> as <hi>Paul</hi> declared, in whom we Believe, as we do in God, as he himself hath taught us; <hi>Ye believe in God</hi> (saith he) <hi>Believe also in me,</hi> in whom Believing, we also call upon Him, even <hi>Jesus,</hi> who, as concerning the Flesh, was Crucified, who is God over all, Blessed for ever.</q>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46806:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
